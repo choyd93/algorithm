@@ -11,7 +11,10 @@ public class AminusB {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		
+		System.out.println(a+b);
+		System.out.println(a-b);
 		System.out.println(a*b);
-
+		System.out.println(a/b);
+		System.out.println(a%b);
 	}
 }
